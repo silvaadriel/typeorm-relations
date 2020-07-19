@@ -29,7 +29,7 @@ class CreateOrdersProducts1595033621461 implements MigrationInterface {
           {
             name: 'price',
             type: 'decimal',
-            precision: 2,
+            precision: 6,
             scale: 2,
           },
           {
